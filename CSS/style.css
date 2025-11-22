@@ -1,0 +1,19 @@
+body {
+    margin-top: 20px;
+    padding: 0;
+    background: rgb(224, 223, 223);
+}
+
+.container {
+    margin: auto;
+    width: 50%;
+    background: rgb(178, 243, 238);
+    display: grid;
+    justify-items: center;
+    padding: 30px;
+    border-radius: 6px;
+}
+
+.container img {
+    width: 100%;
+}
